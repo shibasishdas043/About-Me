@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Shibasish Das , A Curious Coder Who Loves To Code . . .</h2>
+<h2 align="center">Hi 👋! My name is Shibasish Das , A Curious Coder Who Loves To Code . . .</h2>
 
 ###
 
